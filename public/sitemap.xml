@@ -78,6 +78,10 @@
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/~xia/teaching/cs60_computer_networks/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/~xia/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -114,44 +118,244 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/~xia/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/~xia/publication_types/1/</loc>
+    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/~xia/publication_types/article/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/~xia/tags/large-language-models/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/~xia/publication/cogsci22-sl/</loc>
+    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/~xia/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/~xia/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/~xia/publication/journal-article/</loc>
+    <loc>http://localhost:1313/~xia/publication/mobisys22-sunflower/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/comsnets22-light/</loc>
+    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication_types/2/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/ubicomp21-facesense/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/ubicomp20-motion/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/sensys20-glucose/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/nsdi20-amphilight/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/hotmobile20-polartag/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/chi20-threadsense/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/longitudinalanalysis/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/ubicomp19-fabric/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/mobicom18-eye/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/uist18-selfpower/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/mobisys18-polar/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/ubicomp18-protractor/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/buildsys17-3dprint/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/sensys17-ligaze/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/uist17-pyro/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/vlcs17-inertial/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/ubicomp17-aili/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/mobilehealth17/</loc>
+    <lastmod>2017-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/sensys16-specmonitor/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/mobicom16-darklight/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/wintech16-drone/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/mobisys16-starlight/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/hotmobile16-darkvlc/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/mcss15-mpsm/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/~xia/publication_types/article-journal/</loc>
+    <loc>http://localhost:1313/~xia/publication/mcss15-facelogging/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/~xia/tags/source-themes/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/~xia/publication/hotw15-wiprint/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/~xia/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/~xia/publication/vlcs15-id/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/~xia/publication_types/paper-conference/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/~xia/publication/mobicom15-lisense/</loc>
+    <lastmod>2015-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/ubicomp15-smartgpa/</loc>
+    <lastmod>2015-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/ubicomp15-wiscan/</loc>
+    <lastmod>2015-01-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/mobisys15-hilight/</loc>
+    <lastmod>2015-01-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/www15-wifilte/</loc>
+    <lastmod>2015-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/ubicomp14-studentlife/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/hotw14-ivlc/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/hotw14-specmonitor/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/vlcs14-hilight/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/mobicom14-angora/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/wpa14/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/ton15-cg/</loc>
+    <lastmod>2014-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/sigmetrics13_cg/</loc>
+    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/sigcomm12_beam3d/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/hotnet11_beam3d/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/mobicom11_borealis/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/sigmetrics11_baron/</loc>
+    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/info11_topaz/</loc>
+    <lastmod>2011-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/mobihoc10_athena/</loc>
+    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/dyspan10-optimus/</loc>
+    <lastmod>2010-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication_types/6/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/crtextbook10/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/info09_trust/</loc>
+    <lastmod>2009-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/mobicom08_veritas/</loc>
+    <lastmod>2008-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/sdr08/</loc>
+    <lastmod>2008-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~xia/publication/icc07-cora/</loc>
+    <lastmod>2007-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

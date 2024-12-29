@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Xia Zhou</title>
+    <link>http://localhost:1313/~xia/publication/publication/</link>
+      <atom:link href="http://localhost:1313/~xia/publication/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/~xia/media/icon_hu7729264130191091259.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/~xia/publication/publication/</link>
+    </image>
+    
+    <item>
+      <title>Overlapping Semantic Representations of Sign and Speech in Novice Sign Language Learners</title>
+      <link>http://localhost:1313/~xia/publication/publication/cogsci22-sl/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/cogsci22-sl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunflower: Locating Underwater Robots From the Air</title>
+      <link>http://localhost:1313/~xia/publication/publication/mobisys22-sunflower/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/mobisys22-sunflower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Air-Water Communication and Sensing with Light</title>
+      <link>http://localhost:1313/~xia/publication/publication/comsnets22-light/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/comsnets22-light/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FaceSense: Sensing Face Touch with an Ear-worn System</title>
+      <link>http://localhost:1313/~xia/publication/publication/ubicomp21-facesense/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/ubicomp21-facesense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching American Sign Language in Mixed Reality</title>
+      <link>http://localhost:1313/~xia/publication/publication/ubicomp20-motion/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/ubicomp20-motion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noninvasive Glucose Monitoring Using Polarized Light</title>
+      <link>http://localhost:1313/~xia/publication/publication/sensys20-glucose/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/sensys20-glucose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AmphiLight: Direct Air-Water Communication with Laser Light</title>
+      <link>http://localhost:1313/~xia/publication/publication/nsdi20-amphilight/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/nsdi20-amphilight/</guid>
+      <description>&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;450&#34; src=&#34;https://www.youtube.com/embed/red-Q16MYWU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>PolarTag: Invisible Data with Light Polarization</title>
+      <link>http://localhost:1313/~xia/publication/publication/hotmobile20-polartag/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/hotmobile20-polartag/</guid>
+      <description>&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;450&#34; src=&#34;https://www.youtube.com/embed/lHfvueWdjJQ&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ThreadSense: Locating Touch on an Extremely Thin Interactive Thread</title>
+      <link>http://localhost:1313/~xia/publication/publication/chi20-threadsense/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/chi20-threadsense/</guid>
+      <description>&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;450&#34; src=&#34;https://www.youtube.com/embed/0In_udmdOko&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Analysis of a Campus Wi-Fi Network</title>
+      <link>http://localhost:1313/~xia/publication/publication/longitudinalanalysis/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/longitudinalanalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing Human Joint Motion with Computational Fabrics</title>
+      <link>http://localhost:1313/~xia/publication/publication/ubicomp19-fabric/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/ubicomp19-fabric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Battery-Free Eye Tracker on Glasses</title>
+      <link>http://localhost:1313/~xia/publication/publication/mobicom18-eye/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/mobicom18-eye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Powered Gesture Recognition with Ambient Light</title>
+      <link>http://localhost:1313/~xia/publication/publication/uist18-selfpower/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/uist18-selfpower/</guid>
+      <description>&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;450&#34; src=&#34;https://www.youtube.com/embed/T9Dr_I18Gss&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Augmenting Indoor Inertial Tracking with Polarized Light</title>
+      <link>http://localhost:1313/~xia/publication/publication/mobisys18-polar/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/mobisys18-polar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Interaction Proxemics with Wearable Light Tags</title>
+      <link>http://localhost:1313/~xia/publication/publication/ubicomp18-protractor/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/ubicomp18-protractor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customizing Indoor Wireless Coverage via 3D-Fabricated Reflectors</title>
+      <link>http://localhost:1313/~xia/publication/publication/buildsys17-3dprint/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/buildsys17-3dprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultra-Low Power Gaze Tracking for Virtual Reality</title>
+      <link>http://localhost:1313/~xia/publication/publication/sensys17-ligaze/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/sensys17-ligaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pyro: Thumb-Tip Gesture Recognition Using Pyroelectric Infrared Sensing.</title>
+      <link>http://localhost:1313/~xia/publication/publication/uist17-pyro/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/uist17-pyro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Position: Augmenting Inertial Tracking with Light</title>
+      <link>http://localhost:1313/~xia/publication/publication/vlcs17-inertial/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/vlcs17-inertial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing Hand Poses Using Visible Light</title>
+      <link>http://localhost:1313/~xia/publication/publication/ubicomp17-aili/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/ubicomp17-aili/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StudentLife: assessing mental health, academic performance and behavioral trends of college students using smartphones</title>
+      <link>http://localhost:1313/~xia/publication/publication/mobilehealth17/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/mobilehealth17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical Validation of Commodity Spectrum Monitoring</title>
+      <link>http://localhost:1313/~xia/publication/publication/sensys16-specmonitor/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/sensys16-specmonitor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The DarkLight Rises: Visible Light Communication in the Dark</title>
+      <link>http://localhost:1313/~xia/publication/publication/mobicom16-darklight/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/mobicom16-darklight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automating 3D Wireless Measurements with Drones</title>
+      <link>http://localhost:1313/~xia/publication/publication/wintech16-drone/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/wintech16-drone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Human Sensing in the Light</title>
+      <link>http://localhost:1313/~xia/publication/publication/mobisys16-starlight/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/mobisys16-starlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lighting Up the Internet of Things with DarkVLC</title>
+      <link>http://localhost:1313/~xia/publication/publication/hotmobile16-darkvlc/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/hotmobile16-darkvlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Mobile Photographic Stress Meter (MPSM): A New Way to Measure Stress Using Images</title>
+      <link>http://localhost:1313/~xia/publication/publication/mcss15-mpsm/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/mcss15-mpsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using opportunistic face logging from smartphone to infer mental health: challenges and future directions</title>
+      <link>http://localhost:1313/~xia/publication/publication/mcss15-facelogging/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/mcss15-facelogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Printing Your Wireless Coverage</title>
+      <link>http://localhost:1313/~xia/publication/publication/hotw15-wiprint/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/hotw15-wiprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visible Light Knows Who You Are</title>
+      <link>http://localhost:1313/~xia/publication/publication/vlcs15-id/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/vlcs15-id/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Sensing Using Visible Light Communication</title>
+      <link>http://localhost:1313/~xia/publication/publication/mobicom15-lisense/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/mobicom15-lisense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmartGPA: How Smartphones Can Assess and Predict Academic Performance of College Students</title>
+      <link>http://localhost:1313/~xia/publication/publication/ubicomp15-smartgpa/</link>
+      <pubDate>Sat, 31 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/ubicomp15-smartgpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Power Pervasive Wi-Fi Connectivity Using WiScan</title>
+      <link>http://localhost:1313/~xia/publication/publication/ubicomp15-wiscan/</link>
+      <pubDate>Fri, 30 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/ubicomp15-wiscan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Screen-Camera Communication Behind Any Scene</title>
+      <link>http://localhost:1313/~xia/publication/publication/mobisys15-hilight/</link>
+      <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/mobisys15-hilight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy and Performance of Smartphone Radio Bundling in Outdoor Environments</title>
+      <link>http://localhost:1313/~xia/publication/publication/www15-wifilte/</link>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/www15-wifilte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StudentLife: assessing mental health, academic performance and behavioral trends of college students using smartphones</title>
+      <link>http://localhost:1313/~xia/publication/publication/ubicomp14-studentlife/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/ubicomp14-studentlife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visible Light Networking and Sensing</title>
+      <link>http://localhost:1313/~xia/publication/publication/hotw14-ivlc/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/hotw14-ivlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Commoditized Real-time Spectrum Monitoring</title>
+      <link>http://localhost:1313/~xia/publication/publication/hotw14-specmonitor/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/hotw14-specmonitor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HiLight: Hiding Bits in Pixel Translucency Changes</title>
+      <link>http://localhost:1313/~xia/publication/publication/vlcs14-hilight/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/vlcs14-hilight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cutting the Cord: a Robust Wireless Facilities Network for Data Centers</title>
+      <link>http://localhost:1313/~xia/publication/publication/mobicom14-angora/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/mobicom14-angora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Smartphone Knows I am Hungry</title>
+      <link>http://localhost:1313/~xia/publication/publication/wpa14/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/wpa14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Conflict Graphs in the Wild</title>
+      <link>http://localhost:1313/~xia/publication/publication/ton15-cg/</link>
+      <pubDate>Fri, 21 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/ton15-cg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Conflict Graphs for Dynamic Spectrum Distribution</title>
+      <link>http://localhost:1313/~xia/publication/publication/sigmetrics13_cg/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/sigmetrics13_cg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mirror Mirror on the Ceiling: Flexible Wireless Links for Data Centers</title>
+      <link>http://localhost:1313/~xia/publication/publication/sigcomm12_beam3d/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/sigcomm12_beam3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Beamforming for Wireless Data Centers</title>
+      <link>http://localhost:1313/~xia/publication/publication/hotnet11_beam3d/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/hotnet11_beam3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Am the Antenna: Accurate Outdoor AP Location Using Smartphones</title>
+      <link>http://localhost:1313/~xia/publication/publication/mobicom11_borealis/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/mobicom11_borealis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Stability and Optimality of Universal Swarms</title>
+      <link>http://localhost:1313/~xia/publication/publication/sigmetrics11_baron/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/sigmetrics11_baron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Preempt or Not: Tackling Bid and Time-based Cheating in Online Spectrum Auctions</title>
+      <link>http://localhost:1313/~xia/publication/publication/info11_topaz/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/info11_topaz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breaking Bidder Collusion in Large-Scale Spectrum Auctions</title>
+      <link>http://localhost:1313/~xia/publication/publication/mobihoc10_athena/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/mobihoc10_athena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimus: SINR-driven Spectrum Distribution via Constraint Transformation</title>
+      <link>http://localhost:1313/~xia/publication/publication/dyspan10-optimus/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/dyspan10-optimus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auction-based Spectrum Markets in Cognitive Radio Networks</title>
+      <link>http://localhost:1313/~xia/publication/publication/crtextbook10/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/crtextbook10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRUST: A General Framework for Truthful Double Spectrum Auctions</title>
+      <link>http://localhost:1313/~xia/publication/publication/info09_trust/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/info09_trust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eBay in the Sky: Strategy-Proof Wireless Spectrum Auctions</title>
+      <link>http://localhost:1313/~xia/publication/publication/mobicom08_veritas/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/mobicom08_veritas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic-Driven Dynamic Spectrum Auctions</title>
+      <link>http://localhost:1313/~xia/publication/publication/sdr08/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/sdr08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation based Rate Adaptation via Insights from Incomplete Observations in 802.11 Networks</title>
+      <link>http://localhost:1313/~xia/publication/publication/icc07-cora/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/publication/icc07-cora/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Xia Zhou</title>
+    <link>http://localhost:1313/~xia/publication_types/2/</link>
+      <atom:link href="http://localhost:1313/~xia/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/~xia/media/icon_hu7729264130191091259.png</url>
+      <title>2</title>
+      <link>http://localhost:1313/~xia/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>FaceSense: Sensing Face Touch with an Ear-worn System</title>
+      <link>http://localhost:1313/~xia/publication/ubicomp21-facesense/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/ubicomp21-facesense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching American Sign Language in Mixed Reality</title>
+      <link>http://localhost:1313/~xia/publication/ubicomp20-motion/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/ubicomp20-motion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing Human Joint Motion with Computational Fabrics</title>
+      <link>http://localhost:1313/~xia/publication/ubicomp19-fabric/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/ubicomp19-fabric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing Hand Poses Using Visible Light</title>
+      <link>http://localhost:1313/~xia/publication/ubicomp17-aili/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/ubicomp17-aili/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StudentLife: assessing mental health, academic performance and behavioral trends of college students using smartphones</title>
+      <link>http://localhost:1313/~xia/publication/mobilehealth17/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~xia/publication/mobilehealth17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
